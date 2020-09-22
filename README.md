@@ -278,7 +278,7 @@ optional arguments:
                         Output type {json, text}. Default is text
 ```
 
-####Acknowledge CIDRs
+#### Acknowledge CIDRs
 This command is used to acknowlege a CIDR Block.
 ```
 $akamai cac --section default acknowledge-cidr 4240 1
