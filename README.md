@@ -1,3 +1,8 @@
+<!--esi 
+<esi:assign name="dac_stylesheets" value="['/stylesheets/screen.css']" />
+<esi:assign name="dac_footer_js" value="['/javascripts/app/toc.js']" />
+<esi:eval src="/internal/header.html?http" dca="esi" />
+-->
 # cli-cac
 This module enables the use of Client Access Control (CAC) in the Akamai CLI tool
 
@@ -294,3 +299,7 @@ Copyright 2020 Akamai Technologies, Inc.
 See [Apache License 2.0](LICENSE)
 
 By submitting a contribution (the “Contribution”) to this project, and for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, you (the “Assignor”) irrevocably convey, transfer, and assign the Contribution to the owner of the repository (the “Assignee”), and the Assignee hereby accepts, all of your right, title, and interest in and to the Contribution along with all associated copyrights, copyright registrations, and/or applications for registration and all issuances, extensions and renewals thereof (collectively, the “Assigned Copyrights”). You also assign all of your rights of any kind whatsoever accruing under the Assigned Copyrights provided by applicable law of any jurisdiction, by international treaties and conventions and otherwise throughout the world.
+
+<!--esi 
+<esi:eval src="/internal/footer.html?http" dca="esi" />
+-->
